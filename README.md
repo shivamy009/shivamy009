@@ -26,6 +26,6 @@
 <ul>
 <li><a target="_blank" href=""></a></li>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamy009&show_icons=true&locale=en" alt="shivamy009" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=shivamy009&" alt="shivamy009" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamy009&" alt="shivamy009" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamy009&show_icons=true&locale=en&layout=compact" alt="shivamy009" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamy009" alt="shivamy009" /></a></p>
