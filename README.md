@@ -1,31 +1,81 @@
-<h1>Hi 👋, I'm Shivam Yadav</h1>
-<p>A passionate Web developer from India</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="42" height="42" /></a>
-<a target="_blank" href="https://www.chartjs.org/media/logo-title.svg" style="display: inline-block;"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href=""></a></li>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamy009&show_icons=true&locale=en" alt="shivamy009" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamy009&" alt="shivamy009" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamy009&show_icons=true&locale=en&layout=compact" alt="shivamy009" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamy009" alt="shivamy009" /></a></p>
+<h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&color=00F7FF&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Explorer;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivam-yadav-95381b312/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="mailto:shivamy0345@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/shivamy009"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/></a>
+</p>
+
+---
+
+## 🚀 About Me
+- 🌱 Passionate web developer focused on building scalable and beautiful applications.
+- 💡 Always exploring new tech and best practices.
+- 🤝 Enjoy collaborating and contributing to open-source.
+- 🧩 Strong believer in teamwork, communication, and continuous improvement.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,vercel,netlify,postman,vscode,redis" />
+</div>
+
+---
+
+## ✨ Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://welcomblog.netlify.app/"><b>Blogging</b></a><br/>
+      <sub>Personal blogging platform built with React & Node.js.</sub>
+    </td>
+    <td>
+      <a href="https://www.triptortoise.com/"><b>Trip Tortoise</b></a><br/>
+      <sub>Travel planner web app for seamless trip management.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://expanse-tracker-omega.vercel.app/"><b>Expense Tracker</b></a><br/>
+      <sub>Track and visualize your expenses efficiently.</sub>
+    </td>
+    <td>
+      <a href="https://journal-web-kappa.vercel.app/"><b>JournalWeb</b></a><br/>
+      <sub>Organize your thoughts and journals online.</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamy009&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamy009&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamy009&layout=compact&theme=tokyonight" height="165" />
+</div>
+
+---
+
+## 🌐 Let's Connect!
+
+- 📧 Email: [shivamy0345@gmail.com](mailto:shivamy0345@gmail.com)
+- 💼 LinkedIn: [shivam-yadav-95381b312](https://www.linkedin.com/in/shivam-yadav-95381b312/)
+- 🐙 GitHub: [shivamy009](https://github.com/shivamy009)
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <b>Thanks for visiting! 🚀</b>
+</p>
